@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "name": "Harry potter and the sorcerer's stone",
+      "author": "J.K Rowling",
+      "price": 10,
+      "img": "https://i.thenile.io/r1000/9780780797086.jpg?r=5e9a5f24471f7",
+      "quanty": 1
+    },
+    {
+      "id": 2,
+      "name": "Harry potter and chamber of secrets ",
+      "author": "J.K Rowling",
+      "price": 20,
+      "img": "https://i.thenile.io/r1000/9780756903169.jpg?r=5e9cca868f261",
+      "quanty": 1
+    },
+  
+    {
+      "id": 3,
+      "name": "Harry potter and the prisoner of azkaban book",
+      "author": "J.K Rowling",
+      "price": 27,
+      "img": "https://kbimages1-a.akamaihd.net/69eca8ca-652c-4641-b86f-42de460a6d4d/1200/1200/False/harry-potter-and-the-prisoner-of-azkaban-6.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 4,
+      "name": "Harry potter and the goblet of fire",
+      "author": "J.K Rowling",
+      "price": 18,
+      "img": "https://kbimages1-a.akamaihd.net/2667210b-30b6-424d-bfa0-c9e6c54d4d6d/1200/1200/False/harry-potter-and-the-goblet-of-fire-5.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 5,
+      "name": "Harry potter and the order of the phoenix book",
+      "author": "J.K Rowling",
+      "price": 18,
+      "img": "https://kbimages1-a.akamaihd.net/db1b24c5-f64c-4fd3-bdef-5717817dc636/1200/1200/False/harry-potter-and-the-order-of-the-phoenix-5.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 6,
+      "name": "Harry potter and the half-blood prince",
+      "author": "J.K Rowling",
+      "price": 23,
+      "img": "https://kbimages1-a.akamaihd.net/94cea023-31a6-45ae-a231-21ac1e17b42e/1200/1200/False/harry-potter-and-the-half-blood-prince-6.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 7,
+      "name": "Harry potter and the deathly hallows",
+      "author": "J.K Rowling",
+      "price": 45,
+      "img": "https://textbookcentre.com/media/products/2030302000339_YooD8PW.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 8,
+      "name": "Fantastic beasts",
+      "author": "J.K Rowling",
+      "price": 21,
+      "img": "https://pm1.narvii.com/6208/294d6b444c851791ee5c19c1775f562bfafca197_hq.jpg",
+      "quanty": 1
+    }
+  ]
