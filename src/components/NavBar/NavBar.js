@@ -9,7 +9,7 @@ const NavBar = () => {
   return (
     <div className="nav-container">
       <nav className="navbar">
-        <Link to={"/"}>
+        <Link to={"/Home"}>
           <h1>
             Books <span className="color-title">Nook</span>
           </h1>
